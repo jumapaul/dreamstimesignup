@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dreamstime</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="john_lorem">John Lorem</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="terms_and_condition">I have accepted the terms and conditions</string>
+    <string name="subscription_to_newsletter">I want to subscribe to this newsletter</string>
+    <string name="login_now">Login Now</string>
+</resources>
